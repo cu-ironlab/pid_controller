@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="pid_controller" type="master_node.py" name="master_node" output="screen"/>
+</launch>
